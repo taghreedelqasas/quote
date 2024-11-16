@@ -1,0 +1,51 @@
+h1{
+    font-size: 80px;
+    margin: auto;
+    font-family: "Anton", serif;
+    color:#4A628A; 
+    
+}
+.header{
+     /* height: 100vh; */
+     background-image: linear-gradient(to bottom, #B9E5E8   ,#DFF2EB);
+     padding-bottom: 100px;
+    
+}
+.container{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    /* gap: 40px; */
+    width: 90%;
+    margin: auto;
+
+}
+p{
+    font-size: 40px;
+    text-align: center;
+     word-spacing: 5px;
+    font-family: "Edu AU VIC WA NT Pre", cursive;
+
+
+}
+#demo{
+     font-size: 35px;
+     padding: 20px 60px;
+     border-radius: 20px; 
+     background-color: #21676c; 
+    color: #fff;
+    border: none;
+    transition: all .5s;
+}
+#demo:hover{
+    background-color: #FAF6E3;
+    color: black;
+}
+
+#box{
+    width: 75%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
