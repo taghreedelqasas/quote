@@ -2,13 +2,14 @@ h1{
     font-size: 80px;
     margin: auto;
     font-family: "Anton", serif;
-    color:#4A628A; 
+    color:#21676c;
     
 }
-.header{
+body{
      /* height: 100vh; */
-     background-image: linear-gradient(to bottom, #B9E5E8   ,#DFF2EB);
-   
+     /* background-image: linear-gradient(to bottom, #B9E5E8   ,#DFF2EB); */
+     background-color:rgba(200, 194, 255, 0.19)
+     /* padding-bottom: 100px; */
     
 }
 .container{
